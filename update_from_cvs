@@ -1,0 +1,2 @@
+#!/bin/bash
+git cvsimport -v -d :pserver:anonymous@ecb.cvs.sourceforge.net:/cvsroot/ecb ecb
